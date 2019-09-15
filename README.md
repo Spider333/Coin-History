@@ -1,3 +1,25 @@
+Web: www.coinhistory.tech A list of all the important sources, technologies, concepts, explainers and ideas relevant to cryptocurrencies.
+
+Cryptographic Primitives
+Pre-Bitcoin Era
+Digital Privacy Groups
+Cypherpunks
+Bitcoin Protocol
+Lightning Network
+Bitcoin Ecosystem
+Memes
+Satoshi Nakamoto
+Altcoins
+Anonymous altcoins
+Ethereum
+ICOs
+Smart Contract Platforms
+Decentralised Finance (DeFi)
+Consensus algorithms
+Zero-knowledge proofs
+STOs
+
+
 # Blockchain Reading List
 
 This is a list of readings (and watchings) on **blockchain** related topics.

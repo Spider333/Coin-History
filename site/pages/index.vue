@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img src="/coin-story.svg">
+    <img src="~/assets/coin-story.svg">
     <vue-markdown :source="MarkdownSource" />
   </div>
 </template>

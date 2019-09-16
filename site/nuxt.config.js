@@ -1,5 +1,15 @@
+const routerBase =
+  process.env.DEPLOY_ENV === "GH_PAGES"
+    ? {
+        router: {
+          base: "/"
+        }
+      }
+    : {};
+
 export default {
-  mode: "universal",
+  ...routerBase,
+  mode: "spa",
   /*
    ** Headers of the page
    */
@@ -23,7 +33,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ["@/assets/global.css"],
   /*
    ** Plugins to load before mounting the App
    */

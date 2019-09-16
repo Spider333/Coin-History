@@ -32,7 +32,7 @@ The word _"blockchain"_ (or _"block chain"_) started off as a more or less narro
 It (_"blockchain"_) later became a buzzword that represented anything related to Bitcoin, alt-coins (ex: Litecoin, Ethereum, etc), cryptocurrencies, etc.
 
 And now that the word _"blockchain"_ is on the verge of becoming a _household name_,
-it seems like it is starting to include what some others are calling _"distributed computing"_.
+it seems like it is starting to include what some others used to call _"P2P"_, and are now calling _"distributed computing"_.
 
 (In some usages of the label _"blockchain"_, neither _blocks_ or _hash lists_ seemed to be necessary for that thing to be called a _"blockchain"_.)
 
@@ -40,7 +40,7 @@ This seems to somewhat mirror how previously the usage of the word _"P2P"_ seeme
 
 (Although this time around, cryptography and various concepts of "money" seems to have prominence.)
 
-Regardless, this document focuses on a more traditional definite of _"blockchain"_.
+Regardless, this document focuses on a more traditional definition of _"blockchain"_.
 
 But also includes some topics that the author of this document feels that, while not strictly about blockchains,
 will help provide readers with a deep(er) technical background that can be useful when working with or creating blockchain based technologies.
@@ -181,7 +181,10 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [MAGNET v0.1 (Draft Tech Overview/Spec)](http://magnet-uri.sourceforge.net/magnet-draft-overview.txt),
   by Gordon Mohr
 
-* [Magnet URI scheme (Wikipedia)](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
+* [Magnet URI scheme (Wikipedia)](https://en.wikipedia.org/wiki/Magnet_URI_scheme),
+
+* [A URN Namespace For Identifiers Based on Cryptographic Hashes](https://tools.ietf.org/html/draft-thiemann-hash-urn-01)
+  by Peter Thiemann
 
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
@@ -191,6 +194,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [BIP 122](https://github.com/bitcoin/bips/blob/master/bip-0122.mediawiki)
 
 * [HTTP Extensions for a Content-Addressable Web](http://lists.w3.org/Archives/Public/www-talk/2001NovDec/0090.html)
+
+* [IETF RFC 2397: The "data" URL scheme](https://tools.ietf.org/html/rfc2397)
 
 * [Hash URI Specification](https://github.com/hash-uri/hash-uri)
 

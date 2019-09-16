@@ -1,9 +1,8 @@
 ### Site Generator
 
-Use the root README.md as source and generate a styled static site (using nuxt.js)
+Automatically use the [root README.md](../README.md) as source and generate a styled static site (using nuxt.js) from it.
 
 ```
-cd site
 yarn install
 yarn run dev
 ```

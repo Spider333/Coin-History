@@ -8,7 +8,7 @@ This is a list of resources on **cryptocurrency** related topics.
 
 ## Preamble
 
-Everyone is invited to suggest additions to hsi collection on Github: https://github.com/Spider333/Coin-History/edit/charles/initial/README.md
+Everyone is invited to suggest additions to hsi collection on Github: https://github.com/Spider333/Coin-History
 
 
 ## Audience

@@ -123,7 +123,7 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Wei Dai
 
 * [B-money - Bitcoin Wiki](https://en.bitcoin.it/wiki/B-money)
-* [B money] (https://nakamotoinstitute.org/b-money/)
+* [B money](https://nakamotoinstitute.org/b-money/)
 
 ## Colored Coins
 

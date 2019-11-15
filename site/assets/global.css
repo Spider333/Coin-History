@@ -6,82 +6,90 @@
 
 body {
   background-color: #000000;
-  color: #ffffff;
+  color: #F3F3F3;
   font-family: ibm-plex-mono, sans-serif;
   font-size: 1rem;
   font-weight: 400;
   font-style: normal;
+}
+
+section {
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
   align-items: center;
-  margin: 0;
+  width: 100vw;
+  height: auto;
 }
 
-a,
-ul a,
-ol a,
-p a,
-form a,
-.mobilemenu a,
-.next,
-.previous,
-h3 a,
-h4 a {
-  text-decoration: none;
-  color: #ffff;
-  box-shadow: inset 0 -3px 0 rgba(254, 2, 140, 0.9);
-  transition: ease-in 0.05s border-bottom;
+section:nth-of-type(1) {
+  padding: 10rem 0 5rem 0;
 }
 
-a:hover,
-a:visited,
-.markdown-body a:hover,
-.markdown-body a:visited,
-ul a:hover,
-ol a:hover,
-p a:hover {
-  text-decoration: none;
-  color: #ffff;
-  box-shadow: inset 0 -24px 0 rgba(254, 2, 140, 0.9);
-}
-
-.unstyled {
-  list-style: none;
-}
-
-.el-menu {
-  border: none;
-  padding: none;
-}
-
-.el-menu.el-menu--horizontal {
-  border: none;
-  padding: none;
-}
-
-.el-menu--horizontal > .el-menu-item.is-active {
-  border-bottom: none !important;
-}
-
-.el-menu-item a:hover,
-.el-menu-item a {
-  color: #fff;
-  display: block;
-  text-decoration-line: none;
-  text-decoration-style: none;
-  box-shadow: none;
-  border-bottom: rgba(254, 2, 140, 0.9);
+section:nth-of-type(2) {
+  padding: 0 0 10rem 0;
 }
 
 .container {
-  margin: auto;
-  max-width: 80vw;
+  max-width: 1200px;
+}
+
+.title img {
+  max-width: 100%;
+}
+
+.title div {
+  font-size: 1.25em;
+  line-height: 100%;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 1.5rem 0 0 0;
 }
 
 h1 {
-  color: #ff006b;
+  display: none;
+  font-family: Fresno;
+  font-size: 6em;
+  color: #DF005E;
 }
 
 h2 {
-  color: #f404ff;
+  font-family: Fresno;
+  font-size: 6em;
+  color: #FFFFFF;
+  color: #DF005E;
+  margin: 1em 0 0.25em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  color: #636363;
+}
+
+ul li a {
+  color: #DF005E;
+  text-decoration: none;
+}
+
+.container > div > p:nth-child(1), p:nth-child(2), p:nth-child(4) {
+  display: none;
+}
+
+ul:nth-of-type(1) {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+ul:nth-of-type(1) li a {
+  display: block;
+  padding: 1rem 2rem 1.2rem;
+  background-color: #2b0012;
+  border-radius: 6px;
+  margin: 0 1rem 1rem 0;
 }

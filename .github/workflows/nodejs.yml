@@ -23,6 +23,6 @@ jobs:
         cd site
         npm i
         npm run generate:gh-pages
-        npm deploy:gh-pages
+        npm run deploy:gh-pages
       env:
         CI: true

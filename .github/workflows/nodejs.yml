@@ -23,6 +23,8 @@ jobs:
         cd site
         yarn install
         yarn run generate:gh-pages
+        git config --global user.email "git@coin-history.com"
+        git config --global user.name "Coin-History Autocommit"
         git add -A
         git commit -m "update copied file"
         yarn run deploy:gh-pages

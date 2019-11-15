@@ -23,6 +23,7 @@ jobs:
         cd site
         yarn install
         yarn run generate:gh-pages
+        git -am "update copied file"
         yarn run deploy:gh-pages
       env:
         CI: true

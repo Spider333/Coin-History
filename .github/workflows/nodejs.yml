@@ -21,7 +21,7 @@ jobs:
     - name: npm install, build, and deploy to gh-pages
       run: |
         cd site
-        yarn i
+        yarn install
         yarn run generate:gh-pages
         yarn run deploy:gh-pages
       env:

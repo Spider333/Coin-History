@@ -23,10 +23,13 @@ jobs:
         cd site
         yarn install
         yarn run generate:gh-pages
+        remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        remote_branch="gh-pages"
         git config --global user.email "git@coin-history.com"
         git config --global user.name "Coin-History Autocommit"
         git add -A
-        git commit -m "update copied file"
+        git commit -m "action build"
         yarn run deploy:gh-pages
+        rm -fr .git
       env:
         CI: true

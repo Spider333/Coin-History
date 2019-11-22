@@ -10,7 +10,7 @@ Bitcoin Ecosystem
 Memes
 Satoshi Nakamoto
 Altcoins
-Anonymous altcoins
+Anonymous Altcoins
 Ethereum
 ICOs
 Smart Contract Platforms
@@ -611,3 +611,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
   by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
+
+
+<small><pre>v1.2.3</pre></small>

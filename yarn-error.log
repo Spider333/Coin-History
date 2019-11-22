@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/local/Cellar/node/12.5.0/bin/node /usr/local/bin/yarn i
+
+PATH: 
+  /Users/auron/Library/Python/3.7/bin/:/Users/auron/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/usr/local/MacGPG2/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  12.5.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/auron/Dev/Git/Coin-History"
+      at new MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:109:13

@@ -1,0 +1,95 @@
+@import url("https://use.typekit.net/tjy6wdy.css");
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+  color: #F3F3F3;
+  font-family: ibm-plex-mono, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: normal;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100vw;
+  height: auto;
+}
+
+section:nth-of-type(1) {
+  padding: 10rem 0 5rem 0;
+}
+
+section:nth-of-type(2) {
+  padding: 0 0 10rem 0;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.title img {
+  max-width: 100%;
+}
+
+.title div {
+  font-size: 1.25em;
+  line-height: 100%;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 1.5rem 0 0 0;
+}
+
+h1 {
+  display: none;
+  font-family: Fresno;
+  font-size: 6em;
+  color: #DF005E;
+}
+
+h2 {
+  font-family: Fresno;
+  font-size: 6em;
+  color: #FFFFFF;
+  color: #DF005E;
+  margin: 1em 0 0.25em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  color: #636363;
+}
+
+ul li a {
+  color: #DF005E;
+  text-decoration: none;
+}
+
+.container > div > p:nth-child(1), p:nth-child(2), p:nth-child(4) {
+  display: none;
+}
+
+ul:nth-of-type(1) {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+ul:nth-of-type(1) li a {
+  display: block;
+  padding: 1rem 2rem 1.2rem;
+  background-color: #2b0012;
+  border-radius: 6px;
+  margin: 0 1rem 1rem 0;
+}

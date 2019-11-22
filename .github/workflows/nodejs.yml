@@ -8,23 +8,13 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and deploy to gh-pages
-      run: |
-        cd site
-        echo "yarn install"
-        yarn install
-        echo "yarn generate"
-        yarn run generate:gh-pages
-        ls
+    - name: Checkout
+      uses: actions/checkout@master
+
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
         FOLDER: dist
-        BUILD_SCRIPT: npm install && npm run-script build
+        BUILD_SCRIPT: cd site && yarn install && yarn run generate:gh-pages

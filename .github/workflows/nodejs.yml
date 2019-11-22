@@ -17,4 +17,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
         FOLDER: site/dist
-        BUILD_SCRIPT: cd site && yarn install && yarn run generate:gh-pages && ls
+        BUILD_SCRIPT: ls

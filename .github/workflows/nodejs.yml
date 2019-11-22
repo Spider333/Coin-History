@@ -4,18 +4,27 @@ on:
   push:
     branches:
       - master
-      - nuxt
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: npm install, build, and deploy to gh-pages
+      run: |
+        cd site
+        echo "yarn install"
+        yarn install
+        echo "yarn generate"
+        yarn run generate:gh-pages
+        ls
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: site/dist
+        FOLDER: dist
         BUILD_SCRIPT: npm install && npm run-script build

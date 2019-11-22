@@ -613,4 +613,4 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
 
 
-<small><pre>v1.2.1</pre></small>
+<small><pre>v1.2.3</pre></small>

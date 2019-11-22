@@ -1,38 +1,21 @@
-name: Autodeploy to GH-Pages
 
-on:  
- push:
-    branches:    
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - master
       - nuxt
-      - master 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [12.x]
-
     steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and deploy to gh-pages
-      run: |
-        cd site
-        echo "yarn install"
-        yarn install
-        echo "yarn generate"
-        yarn run generate:gh-pages
-        echo "setup git and add/commit"
-        remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-        remote_branch="gh-pages"
-        git config user.name "${GITHUB_ACTOR}" 
-        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git add -A
-        git commit -m "action build"
-        echo "run deploy"
-        yarn run deploy:gh-pages
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Build and Deploy
+      uses: JamesIves/github-pages-deploy-action@master
       env:
-        CI: true
+        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: site/dist
+        BUILD_SCRIPT: npm install && npm run-script build

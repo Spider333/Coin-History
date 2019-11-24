@@ -145,8 +145,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Hidden surprises in the Bitcoin blockchain and how they are stored: Nelson Mandela, Wikileaks, photos, and Python software](http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html)
   by Ken Shirriff
   
-  * [Hidden surprises in the Bitcoin blockchain and how they are stored: Nelson Mandela, Wikileaks, photos, and Python software](http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html)
-  
 * [Bitcoin Explorer Symphony 2.0.](https://symphony.iohk.io/en/)
 
 ## Bit Gold

@@ -34,11 +34,11 @@ It (_"blockchain"_) later became a buzzword that represented anything related to
 And now that the word _"blockchain"_ is on the verge of becoming a _household name_,
 it seems like it is starting to include what some others used to call _"P2P"_, and are now calling _"distributed computing"_.
 
-(In some usages of the label _"blockchain"_, neither _blocks_ or _hash lists_ seemed to be necessary for that thing to be called a _"blockchain"_.)
+
 
 This seems to somewhat mirror how previously the usage of the word _"P2P"_ seemed to broaden and also include what others are calling  _"distributed computing"_.
 
-(Although this time around, cryptography and various concepts of "money" seems to have prominence.)
+
 
 Regardless, this document focuses on a more traditional definition of _"blockchain"_.
 

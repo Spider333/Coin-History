@@ -228,6 +228,7 @@ by Hal Finney
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
   by Andreas M. Antonopoulos, Gavin Wood
+
 ## Smart Contracts
 
 
@@ -243,6 +244,15 @@ by Hal Finney
 
 
 ## Smart Contract Platforms
+RSK
+TRON
+EOS
+Dfinity
+NEO
+Zilliqua
+Holochain
+Hyperledger
+
 
 ## Layer 2 Solutions
 
@@ -256,13 +266,13 @@ by Hal Finney
 
 ## Alternative Cryptocurrencies
 
-[Mastering Monero](https://masteringmonero.com/free-download.html) 
 
 [Decred Documentation](https://docs.decred.org/research/overview/)
 
 [Zcash WP](https://whitepaperdatabase.com/zcash-zec-whitepaper/)
 
 [PIVX WP](https://pivx.org/wp-content/uploads/2019/05/PIVX-White-Paper-Sept-2018.pdf)
+
 ## Consensus Algorithms
 
 ### Proof-of-Work
@@ -381,6 +391,8 @@ PIVX
 
 
 ## Zero-Knowledge Proofs
+
+* [Complex History and Overview of ZKP)](https://github.com/thecryptofruit/education/blob/master/zk-proofs-rollups.md),
 
 * [Zero Knowledge Proofs (Computerphile)](https://youtu.be/HUs1bH85X9I),
   by Alberto Sonnino

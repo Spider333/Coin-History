@@ -33,16 +33,24 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Books](#books)
 * [Newsletters](#newsletters)
 * [History of Crypto](#history-of-crypto)
+* [Cypherpunks](#cypherpunks)
 * [Bitcoin](#bitcoin)
 * [Ethereum](#ethereum)
 * [Smart Contracts](#smart-contracts)
 * [Solidity](#solidity)
 * [Smart Contract Platforms](#smart-contract-platforms)
-* [Layer 2 solutions](#layer-2-solutions)
+* [Layer 2 Solutions](#layer-2-solutions)
 * [Alternative cryptocurrencies](#alternative-cryptocurrencies)
+* [Consensus Algorithms](#consensus-algorithms)
+* [Blockchain Interoperability](#blockchain-interoperability)
+* [ICOs](#ICOs)
+* [STOs](#STOs)
 * [DeFi](#DeFi)
+* [NFTs](#NFTs)
 * [Cryptography](#cryptography)
 * [Privacy](#privacy)
+* [Zero-Knowledge Proofs](#zero-knowledge-proofs)
+* [Other](#other)
 
 
 
@@ -87,6 +95,29 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Trust Networks](#trust-networks)
 * [Worse Is Better](#worse-is-better)
 * [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
+
+## Books
+## Newsletters
+## History of Crypto
+## Cypherpunks
+## Bitcoin
+## Ethereum
+## Smart Contracts
+## Solidity
+## Smart Contract Platforms
+## Layer 2 Solutions
+## Alternative Cryptocurrencies
+## Consensus Algorithms
+## Blockchain Interoperability
+## ICOs
+## STOs
+## DeFi
+## NFTs
+## Cryptography
+## Privacy
+## Zero-Knowledge Proofs
+## Other
+
 
 
 ## Abstract Algebra

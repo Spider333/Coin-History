@@ -11,7 +11,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 ## Topics
-* [Books](#books)
+* [Books](#books) 
 * [Newsletters](#newsletters)
 * [History of Crypto](#history-of-crypto)
 * [Cypherpunks](#cypherpunks)
@@ -25,13 +25,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Consensus Algorithms](#consensus-algorithms)
 * [Blockchain Interoperability](#blockchain-interoperability)
 * [Blockchain in Enterprise](#blockchain-in-enterprise)
-* [ICOs](#ICOs)
-* [STOs](#STOs)
-* [DeFi](#DeFi)
-* [NFTs](#NFTs)
+* [ICOs](#icos)
+* [STOs](#stos)
+* [DeFi](#defi)
+* [NFTs](#nfts)
 * [Cryptography](#cryptography)
 * [Privacy](#privacy)
 * [Zero-Knowledge Proofs](#zero-knowledge-proofs)
+* [Security](#security)
 * [Other](#other)
 
 
@@ -343,11 +344,16 @@ Hyperledger
 
 ### Privacy Coins
 Zcash
+
 Monero
+
 ZCoin
 Grin
+
 Beam
+
 MimbleWimble
+
 PIVX
 
 
@@ -386,7 +392,10 @@ PIVX
 
 * [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
   by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
-  
+
+## Security
+
+
 ## Other
 
 

@@ -45,7 +45,7 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Andreas M. Antonopoulos, Gavin Wood
   
 * [Mastering Monero](https://masteringmonero.com/free-download.html),
-  by SerHack & Monero Community
+  by SerHack & Monero Communityż
   
   
 * [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),

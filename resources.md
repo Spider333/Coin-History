@@ -97,54 +97,73 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 ## Books
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
+  by Andreas M. Antonopoulos
+  
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
+  by Andreas M. Antonopoulos, Gavin Wood
+  
+  
+* [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
+  by Andy Greenberg
+
+* [Crypto](https://www.goodreads.com/book/show/984428.Crypto),
+  by Steven Levy
+  
 ## Newsletters
 ## History of Crypto
+
+### Pre-Bitcoin Digital Currencies
+
+* [Blind signatures for untraceable payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF),
+  by David Chaum
+
+* [eCash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
+
+* [An introduction to ecash](https://web.archive.org/web/19971009044558/http://digicash.com/publish/ecash_intro/ecash_intro.html)
+
+* [Hashcash - A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf),
+  by Adam Back
+
+* [Bit gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html),
+  by Nick Szabo
+
+* [b-money, an anonymous, distributed electronic cash system](http://weidai.com/bmoney.txt),
+  by Wei Dai
+
+* [B-money - Bitcoin Wiki](https://en.bitcoin.it/wiki/B-money)
+
+### History (Open Source)
+
+* [The Cathedral and the Bazaar ](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/),
+  by Eric Steven Raymond
+
+* [Homesteading the Noosphere](http://www.catb.org/esr/writings/homesteading/homesteading/),
+  by Eric Steven Raymond
+
+* [The Wikipedia Revolution](https://www.goodreads.com/book/show/4606921-the-wikipedia-revolution),
+  by Andrew Lih
+
+
 ## Cypherpunks
+
+
+* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html),
+  by Eric Hughes
+
+* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html),
+  by Timothy C. May
+
+* [Cyphernomicon](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html),
+  by Timothy C. May
+
+* [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
+  by Andy Greenberg
+
+* [Crypto](https://www.goodreads.com/book/show/984428.Crypto),
+  by Steven Levy
+  
 ## Bitcoin
-## Ethereum
-## Smart Contracts
-## Solidity
-## Smart Contract Platforms
-## Layer 2 Solutions
-## Alternative Cryptocurrencies
-## Consensus Algorithms
-## Blockchain Interoperability
-## ICOs
-## STOs
-## DeFi
-## NFTs
-## Cryptography
-## Privacy
-## Zero-Knowledge Proofs
-## Other
-
-
-
-## Abstract Algebra
-
-* [Abstract Algebra (Socratica)](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6),
-  by Liliana de Castro, Michael Harrison, Hatch Harrison
-
-
-## Behavioral Science
-
-* [Please, not another bias! An evolutionary take on behavioural economics](https://jasoncollins.blog/2015/07/30/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/),
-  by Jason Collins
-
-* [The Hidden Agenda of the Political Mind](https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind),
-  by Jason Weeden, Robert Kurzban
-
-* [Hierarchy in the Forest](https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest),
-  by Christopher Boehm
-
-* [The Biology of Moral Systems](https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems),
-  by Richard D. Alexander
-
-* See also: [Handicap Principle](#handicap-principle)
-
-
-## Bitcoin
-
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf),
   by Satoshi Nakamoto
 
@@ -173,21 +192,7 @@ This document is targeted at technical people, who are looking to gain a deep un
   
 * [Bitcoin Explorer Symphony 2.0.](https://symphony.iohk.io/en/)
 
-## Bit Gold
-
-* [Bit gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html),
-  by Nick Szabo
-
-
-## B-Money
-
-* [b-money, an anonymous, distributed electronic cash system](http://weidai.com/bmoney.txt),
-  by Wei Dai
-
-* [B-money - Bitcoin Wiki](https://en.bitcoin.it/wiki/B-money)
-
-
-## Colored Coins
+### Colored Coins
 
 * [Colored Coins - Bitcoin Wiki](https://en.bitcoin.it/wiki/Colored_Coins)
 
@@ -195,13 +200,190 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Coloring Scheme](https://github.com/Colored-Coins/Colored-Coins-Protocol-Specification/wiki/Coloring%20Scheme)
 
+### Mastercoin
 
-## Consensus
+* [Mastercoin: A Second-Generation Protocol on the Bitcoin Blockchain](https://bitcoinmagazine.com/articles/mastercoin-a-second-generation-protocol-on-the-bitcoin-blockchain-1383603310/),
+  by Vitalik Buterin
 
-* See also: [Bitcoin](#bitcoin), [Paxos](#paxos), [Raft](#raft)
+* [Mastercoin Complete Specification Version 1.0](https://www.scribd.com/document/157454619/MasterCoin-Specification),
+  by J.R. Willett
 
 
-## Content Addressing
+## Ethereum
+
+* [Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4&t=22s),
+  by Vitalik Buterin
+
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+* [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper),
+  by Gav Would, et al
+
+* [Ethereum Beige Paper: Rewrite of the Yellowpaper in non-Yellowpaper syntax](https://github.com/chronaeon/beigepaper/),
+  by Micah Dameron
+
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
+  by Andreas M. Antonopoulos, Gavin Wood
+## Smart Contracts
+
+
+* [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
+  by Nick Szabo
+
+
+## Solidity
+
+* [What's Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
+
+* [Solidity Bytecode and Opcode Basics](https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2), by Bernard Peh
+
+
+## Smart Contract Platforms
+## Layer 2 Solutions
+## Alternative Cryptocurrencies
+## Consensus Algorithms
+
+### Proof-of-Stake
+
+* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf),
+  by Andrew Poelstra
+
+* [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694),
+  by Iddo Bentov, Ariel Gabizon, Alex Mizrahi
+
+
+
+### Raft
+
+* [The Raft Consensus Algorithm](https://raft.github.io/),
+  by Diego Ongaro, Et al.
+
+* [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/),
+  by Ben Johnson
+
+* [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf),
+  by Diego Ongaro, John Ousterhout
+
+* [Tangaroa: a Byzantine Fault Tolerant Raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf),
+  by Christopher Copeland, Hongxia Zhong
+
+### Paxos
+
+* [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/),
+  by Harry Brundage
+
+* [The Paxos Algorithm](https://youtu.be/d7nAGI_NZPk),
+  by Luis Quesada Torres
+
+* [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf),
+  by Leslie Lamport
+
+## Blockchain Interoperability
+## ICOs
+## STOs
+## DeFi
+## NFTs
+## Cryptography
+
+* [Everything you need to know about cryptography in 1 hour](https://youtu.be/jzY3m5Kv7Y8),
+  by Colin Percival
+
+* [$5 wrench attack](https://xkcd.com/538/),
+  by Randall Munroe
+
+* [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf),
+  by Claude Elwood Shannon
+
+* [New Directions in Cryptography](http://wwwknoll.in.tum.de/pub/Main/TeachingSs2006EinfuehrungInformatik2/diffie.pdf),
+  by Whitfield Diffie, Martin E. Hellman
+  
+* [Blind signatures for untraceable payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF),
+  by David Chaum
+
+* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf),
+  by Ronald Linn Rivest, Adi Shamir, Leonard Adleman
+
+* [How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html),
+  by Barry Steyn
+
+* [Why RSA Works: Three Fundamental Questions Answered](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html),
+  by Barry Steyn
+
+* [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
+  by Barry Steyn
+
+* [End to End Encryption (E2EE) (Computerphile)](https://youtu.be/jkV1KEJGKRA),
+  by Mike Pound
+
+* [Secret Key Exchange (Diffie-Hellman) (Computerphile)](https://youtu.be/NmM9HA2MQGI),
+  by Mike Pound
+
+* See also: [Onion Routing](#onion-routing), [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
+
+## Privacy
+
+
+* [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
+
+### Onion Routing
+
+* [Onion Routing (Computerphile)](https://youtu.be/QRYzre4bf7I),
+  by Mike Pound
+
+* [EXTRA BITS: Onion Routing (Computerphile)](https://youtu.be/6eWkdyRNfqY),
+  by Mike Pound
+
+* [Tor: The Second-Generation Onion Router](https://www.usenix.org/conference/13th-usenix-security-symposium/tor-second-generation-onion-router),
+  by Roger Dingledine, Nick Mathewson, Paul Syverson
+
+* [Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://people.csail.mit.edu/devadas/pubs/circuit_finger.pdf),
+  by Albert Kwon, Mashael AlSabah, David Lazar, Marc Dacier, Srinivas Devadas
+
+* [Garlic Routing](https://geti2p.net/en/docs/how/garlic-routing)
+
+## Zero-Knowledge Proofs
+
+## Zero-Knowledge Proof Protocol
+
+* [Zero Knowledge Proofs (Computerphile)](https://youtu.be/HUs1bH85X9I),
+  by Alberto Sonnino
+
+* [Zero Knowledge Proofs](https://youtu.be/0Sy6nb72gCk),
+  by Scott Twombly
+
+* [Introduction to zkSNARKs](https://youtu.be/jr95o_k_SwI),
+  by Christian Reitwiessner
+
+* [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
+  by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
+  
+## Other
+
+
+### Abstract Algebra
+
+* [Abstract Algebra (Socratica)](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6),
+  by Liliana de Castro, Michael Harrison, Hatch Harrison
+
+
+### Behavioral Science
+
+* [Please, not another bias! An evolutionary take on behavioural economics](https://jasoncollins.blog/2015/07/30/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/),
+  by Jason Collins
+
+* [The Hidden Agenda of the Political Mind](https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind),
+  by Jason Weeden, Robert Kurzban
+
+* [Hierarchy in the Forest](https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest),
+  by Christopher Boehm
+
+* [The Biology of Moral Systems](https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems),
+  by Richard D. Alexander
+
+* See also: [Handicap Principle](#handicap-principle)
+
+
+### Content Addressing
 
 * [Magnet URI Project](http://magnet-uri.sourceforge.net/)
 
@@ -229,47 +411,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
 
 
-## Cryptocurrency
-
-* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum),
-
-
-## Cryptography
-
-* [Everything you need to know about cryptography in 1 hour](https://youtu.be/jzY3m5Kv7Y8),
-  by Colin Percival
-
-* [$5 wrench attack](https://xkcd.com/538/),
-  by Randall Munroe
-
-* [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf),
-  by Claude Elwood Shannon
-
-* [New Directions in Cryptography](http://wwwknoll.in.tum.de/pub/Main/TeachingSs2006EinfuehrungInformatik2/diffie.pdf),
-  by Whitfield Diffie, Martin E. Hellman
-
-* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf),
-  by Ronald Linn Rivest, Adi Shamir, Leonard Adleman
-
-* [How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html),
-  by Barry Steyn
-
-* [Why RSA Works: Three Fundamental Questions Answered](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html),
-  by Barry Steyn
-
-* [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
-  by Barry Steyn
-
-* [End to End Encryption (E2EE) (Computerphile)](https://youtu.be/jkV1KEJGKRA),
-  by Mike Pound
-
-* [Secret Key Exchange (Diffie-Hellman) (Computerphile)](https://youtu.be/NmM9HA2MQGI),
-  by Mike Pound
-
-* See also: [Onion Routing](#onion-routing), [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
-
-
-## Distributed Computing
+### Distributed Computing
 
 * [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
@@ -315,23 +457,13 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Consensus](#consensus), [Peer-to-Peer Networks](#peer-to-peer-networks)
 
 
-## Distributed Hash Tables
+### Distributed Hash Tables
 
 * [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf),
   by Petar Maymounkov, David Mazières
 
 
-## eCash
-
-* [Blind signatures for untraceable payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF),
-  by David Chaum
-
-* [eCash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
-
-* [An introduction to ecash](https://web.archive.org/web/19971009044558/http://digicash.com/publish/ecash_intro/ecash_intro.html)
-
-
-## Error Detection and Correction
+### Error Detection and Correction
 
 * [Information Theory & Coding (Computerphile)](https://www.youtube.com/playlist?list=PLzH6n4zXuckpKAj1_88VS-8Z6yn9zX_P6),
   by David Brailsford
@@ -346,74 +478,19 @@ This document is targeted at technical people, who are looking to gain a deep un
   by David Brailsford
 
 
-## Ethereum
-
-* [Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4&t=22s),
-  by Vitalik Buterin
-
-* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-
-* [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper),
-  by Gav Would, et al
-
-* [Ethereum Beige Paper: Rewrite of the Yellowpaper in non-Yellowpaper syntax](https://github.com/chronaeon/beigepaper/),
-  by Micah Dameron
-
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
-  by Andreas M. Antonopoulos, Gavin Wood
-
-* See also: [Solidity](#solidity)
-
-
-## Handicap Principle
+### Handicap Principle
 
 * [The Handicap Principle: A Missing Piece of Darwin's Puzzle](http://www.goodreads.com/book/show/885547.The_Handicap_Principle),
   by Amotz Zahavi, Avishag Zahavi
 
 
-## Hashcash
-
-* [Hashcash - A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf),
-  by Adam Back
-
-
-## Hash Lists
+### Hash Lists
 
 * [How to Time-Stamp a Digital Document](https://link.springer.com/chapter/10.1007/3-540-38424-3_32),
   by Stuart Haber, W. Scott Stornetta
 
 
-## History (Cypherpunk)
-
-* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html),
-  by Eric Hughes
-
-* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html),
-  by Timothy C. May
-
-* [Cyphernomicon](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html),
-  by Timothy C. May
-
-* [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
-  by Andy Greenberg
-
-* [Crypto](https://www.goodreads.com/book/show/984428.Crypto),
-  by Steven Levy
-
-
-## History (Open Source)
-
-* [The Cathedral and the Bazaar ](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/),
-  by Eric Steven Raymond
-
-* [Homesteading the Noosphere](http://www.catb.org/esr/writings/homesteading/homesteading/),
-  by Eric Steven Raymond
-
-* [The Wikipedia Revolution](https://www.goodreads.com/book/show/4606921-the-wikipedia-revolution),
-  by Andrew Lih
-
-
-## Identity
+### Identity
 
 * [Identity Crisis: How Identification Is Overused and Misunderstood](https://www.goodreads.com/book/show/171237.Identity_Crisis),
   by Jim Harper
@@ -440,100 +517,14 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Graham Williamson, David Yip, Ilan Sharoni, Kent Spaulding
 
 
-## Mastercoin
-
-* [Mastercoin: A Second-Generation Protocol on the Bitcoin Blockchain](https://bitcoinmagazine.com/articles/mastercoin-a-second-generation-protocol-on-the-bitcoin-blockchain-1383603310/),
-  by Vitalik Buterin
-
-* [Mastercoin Complete Specification Version 1.0](https://www.scribd.com/document/157454619/MasterCoin-Specification),
-  by J.R. Willett
-
-
-## Money
+### Money
 
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
 
 * [The Ascent of Money: A Financial History of The World (Documentary)](https://youtu.be/fsrtB5lp60s),
   by Niall Ferguson
-
-* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
-
-
-## Onion Routing
-
-* [Onion Routing (Computerphile)](https://youtu.be/QRYzre4bf7I),
-  by Mike Pound
-
-* [EXTRA BITS: Onion Routing (Computerphile)](https://youtu.be/6eWkdyRNfqY),
-  by Mike Pound
-
-* [Tor: The Second-Generation Onion Router](https://www.usenix.org/conference/13th-usenix-security-symposium/tor-second-generation-onion-router),
-  by Roger Dingledine, Nick Mathewson, Paul Syverson
-
-* [Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://people.csail.mit.edu/devadas/pubs/circuit_finger.pdf),
-  by Albert Kwon, Mashael AlSabah, David Lazar, Marc Dacier, Srinivas Devadas
-
-* [Garlic Routing](https://geti2p.net/en/docs/how/garlic-routing)
-
-
-## Paxos
-
-* [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/),
-  by Harry Brundage
-
-* [The Paxos Algorithm](https://youtu.be/d7nAGI_NZPk),
-  by Luis Quesada Torres
-
-* [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf),
-  by Leslie Lamport
-
-
-## Peer-to-Peer Networks
-
-* [Understanding Churn in Peer-to-Peer Networks](http://www.barsoom.org/papers/imc-2006-churn.pdf),
-  by Daniel Stutzbach, Reza Rejaie
-
-* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
-
-
-## Privacy
-
-* [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
-
-* See also: [Cryptography](#cryptography), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
-
-
-## Proof-of-Stake
-
-* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf),
-  by Andrew Poelstra
-
-* [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694),
-  by Iddo Bentov, Ariel Gabizon, Alex Mizrahi
-
-
-## Proof-of-Work
-
-* See also: [Handicap Principle](#handicap-principle), [Hashcash](#hashcash), [Selfish Mining Attack](#selfish-mining-attack)
-
-
-## Raft
-
-* [The Raft Consensus Algorithm](https://raft.github.io/),
-  by Diego Ongaro, Et al.
-
-* [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/),
-  by Ben Johnson
-
-* [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf),
-  by Diego Ongaro, John Ousterhout
-
-* [Tangaroa: a Byzantine Fault Tolerant Raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf),
-  by Christopher Copeland, Hongxia Zhong
-
-
-## Rai
+  
 
 * [Island Money](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx),
   by Michael F. Bryan
@@ -542,7 +533,16 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Boban Docevski
 
 
-## Randomness
+### Peer-to-Peer Networks
+
+* [Understanding Churn in Peer-to-Peer Networks](http://www.barsoom.org/papers/imc-2006-churn.pdf),
+  by Daniel Stutzbach, Reza Rejaie
+
+* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
+
+
+
+### Randomness
 
 * [Uniform Non-Random Random Numbers](http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers),
   by Timothy Masters
@@ -554,7 +554,7 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Tom Scott
 
 
-## Selfish Mining Attack
+### Selfish Mining Attack
 
 * [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf),
   by Ittay Eyal and Emin G ̈un Sirer
@@ -562,28 +562,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Proof-of-Work](#proof-of-work)
 
 
-## Smart Contracts
 
-* [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
-  by Nick Szabo
-
-* See also: [B-Money](#b-money), [Solidity](#solidity)
-
-
-## Solidity
-
-* [What's Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
-
-* [Solidity Bytecode and Opcode Basics](https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2), by Bernard Peh
-
-
-## Sybil Attack
+### Sybil Attack
 
 * [The Sybil Attack](http://research.microsoft.com/pubs/74220/IPTPS2002.pdf),
   by John R. Douceur
 
 
-## Tamper Detection
+### Tamper Detection
 
 * [The Playdough Protocols](http://nakamotoinstitute.org/the-playdough-protocols/),
   by Nick Szabo
@@ -591,7 +577,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Hash Lists](#hash-lists)
 
 
-## Trust Networks
+### Trust Networks
 
 * [Advogato's Trust Metric](https://web.archive.org/web/20121025175345/http://www.advogato.org:80/trust-metric.html),
   by Raph Levien
@@ -608,7 +594,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Sybil Attack](#sybil-attack)
 
 
-## Worse Is Better
+### Worse Is Better
 
 * [The Rise of “Worse is Better”](https://www.jwz.org/doc/worse-is-better.html),
   by Richard P. Gabriel
@@ -625,16 +611,3 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Worse Is Better (WikiWikiWeb)](http://wiki.c2.com/?WorseIsBetter)
 
 
-## Zero-Knowledge Proof Protocol
-
-* [Zero Knowledge Proofs (Computerphile)](https://youtu.be/HUs1bH85X9I),
-  by Alberto Sonnino
-
-* [Zero Knowledge Proofs](https://youtu.be/0Sy6nb72gCk),
-  by Scott Twombly
-
-* [Introduction to zkSNARKs](https://youtu.be/jr95o_k_SwI),
-  by Christian Reitwiessner
-
-* [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
-  by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell

@@ -43,6 +43,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Alternative cryptocurrencies](#alternative-cryptocurrencies)
 * [Consensus Algorithms](#consensus-algorithms)
 * [Blockchain Interoperability](#blockchain-interoperability)
+* [Blockchain in Enterprise](#blockchain-in-enterprise)
 * [ICOs](#ICOs)
 * [STOs](#STOs)
 * [DeFi](#DeFi)
@@ -54,54 +55,15 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 
-* [Abstract Algebra](#abstract-algebra)
-* [Behavioral Science](#behavioral-science)
-* [Bitcoin](#bitcoin)
-* [Bit Gold](#bit-gold)
-* [B-Money](#b-money)
-* [Colored Coins](#colored-coins)
-* [Consensus](#consensus)
-* [Content Addressing](#content-addressing)
-* [Cryptocurrency](#cryptocurrency)
-* [Cryptography](#cryptography)
-* [Cypherpunks](#abstract-algebra)
-* [Distributed Computing](#distributed-computing)
-* [Distributed Hash Tables](#distributed-hash-tables)
-* [eCash](#ecash)
-* [Error Detection and Correction](#error-detection-and-correction)
-* [Ethereum](#ethereum)
-* [Handicap Principle](#handicap-principle)
-* [Hashcash](#hashcash)
-* [Hash Lists](#hash-lists)
-* [History (Cypherpunk)](#history-cypherpunk)
-* [History (Open Source)](#history-open-source)
-* [Identity](#identity)
-* [Mastercoin](#mastercoin)
-* [Money](#money)
-* [Onion Routing](#onion-routing)
-* [Paxos](#paxos)
-* [Peer-to-Peer Networks](#peer-to-peer-networks)
-* [Privacy](#privacy)
-* [Proof-of-Stake](#proof-of-stake)
-* [Proof-of-Work](#proof-of-work)
-* [Raft](#raft)
-* [Rai](#rai)
-* [Randomness](#randomness)
-* [Selfish Mining Attack](#selfish-mining-attack)
-* [Smart Contracts](#smart-contracts)
-* [Solidity](#solidity)
-* [Sybil Attack](#sybil-attack)
-* [Tamper Detection](#tamper-detection)
-* [Trust Networks](#trust-networks)
-* [Worse Is Better](#worse-is-better)
-* [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
-
 ## Books
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
   by Andreas M. Antonopoulos
   
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
   by Andreas M. Antonopoulos, Gavin Wood
+  
+* [Mastering Monero](https://masteringmonero.com/free-download.html),
+  by SerHack & Monero Community
   
   
 * [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
@@ -111,7 +73,18 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Steven Levy
   
 ## Newsletters
+
+
 ## History of Crypto
+
+* [The Byzantine General Problem](https://nakamotoinstitute.org/static/docs/the-byzantine-generals-problem.pdf),
+by Lamport, Shostak, Peace
+
+* [How to Timestamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf),
+by S. Haber, S. Stornetta
+
+* [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf),
+by David Chaum
 
 ### Pre-Bitcoin Digital Currencies
 
@@ -132,6 +105,9 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Wei Dai
 
 * [B-money - Bitcoin Wiki](https://en.bitcoin.it/wiki/B-money)
+
+* [RPOW](https://nakamotoinstitute.org/rpow/) ,
+by Hal Finney
 
 ### History (Open Source)
 
@@ -192,6 +168,32 @@ This document is targeted at technical people, who are looking to gain a deep un
   
 * [Bitcoin Explorer Symphony 2.0.](https://symphony.iohk.io/en/)
 
+### Bitcoin Script
+
+* [Script on Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
+
+* [Script Playground](https://www.crmarsh.com/script-playground/)
+
+* [Bitcoin Script for Dummies](https://github.com/siminchen/bitcoinIDE)
+
+* [Installing Bitcoin Core](https://en.bitcoin.it/wiki/Help:Installing_Bitcoin_Core)
+
+* [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#transactions)
+
+* [Blockchain Demo](https://andersbrownworth.com/blockchain/)
+
+### Seeds & Addresses
+
+* [How to Create BTC adress](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
+
+* [Base58 encoding](https://en.bitcoin.it/wiki/Base58Check_encoding)
+
+* [Seed](https://en.bitcoin.it/wiki/Seed_phrase)
+
+* [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
+
+* [BIP 0032](https://en.bitcoin.it/wiki/BIP_0032)
+
 ### Colored Coins
 
 * [Colored Coins - Bitcoin Wiki](https://en.bitcoin.it/wiki/Colored_Coins)
@@ -221,6 +223,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Ethereum Beige Paper: Rewrite of the Yellowpaper in non-Yellowpaper syntax](https://github.com/chronaeon/beigepaper/),
   by Micah Dameron
+  
+ * [Learning ETH resources](https://ethereum.org/learn/)
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
   by Andreas M. Antonopoulos, Gavin Wood
@@ -239,9 +243,29 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 ## Smart Contract Platforms
+
 ## Layer 2 Solutions
+
+
+* [Lightning Network](https://lightning.network/)
+
+* [Ethereum Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+
+* [Learning Plasma](https://www.learnplasma.org/en/learn/mvp.html)
+
+
 ## Alternative Cryptocurrencies
+
+[Mastering Monero](https://masteringmonero.com/free-download.html) 
+
+[Decred Documentation](https://docs.decred.org/research/overview/)
+
+[Zcash WP](https://whitepaperdatabase.com/zcash-zec-whitepaper/)
+
+[PIVX WP](https://pivx.org/wp-content/uploads/2019/05/PIVX-White-Paper-Sept-2018.pdf)
 ## Consensus Algorithms
+
+### Proof-of-Work
 
 ### Proof-of-Stake
 
@@ -251,9 +275,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694),
   by Iddo Bentov, Ariel Gabizon, Alex Mizrahi
 
+### Others
 
-
-### Raft
 
 * [The Raft Consensus Algorithm](https://raft.github.io/),
   by Diego Ongaro, Et al.
@@ -267,7 +290,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Tangaroa: a Byzantine Fault Tolerant Raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf),
   by Christopher Copeland, Hongxia Zhong
 
-### Paxos
 
 * [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/),
   by Harry Brundage
@@ -279,6 +301,13 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Leslie Lamport
 
 ## Blockchain Interoperability
+
+## Blockchain in Enterprise
+
+* [Enterprise Ethereum Alliance](https://entethalliance.org/resources/)
+
+* [Hyperledger](https://www.hyperledger.org/resources)
+
 ## ICOs
 ## STOs
 ## DeFi
@@ -318,9 +347,18 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Secret Key Exchange (Diffie-Hellman) (Computerphile)](https://youtu.be/NmM9HA2MQGI),
   by Mike Pound
 
-* See also: [Onion Routing](#onion-routing), [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 ## Privacy
+
+### Privacy Coins
+Zcash
+Monero
+ZCoin
+Grin
+Beam
+MimbleWimble
+PIVX
+
 
 
 * [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
@@ -341,9 +379,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Garlic Routing](https://geti2p.net/en/docs/how/garlic-routing)
 
-## Zero-Knowledge Proofs
 
-## Zero-Knowledge Proof Protocol
+## Zero-Knowledge Proofs
 
 * [Zero Knowledge Proofs (Computerphile)](https://youtu.be/HUs1bH85X9I),
   by Alberto Sonnino

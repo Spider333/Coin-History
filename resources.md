@@ -1,4 +1,8 @@
-Web: www.coinhistory.tech A list of all the important sources, technologies, concepts, explainers and ideas relevant to cryptocurrencies.
+# www.coinstory.tech #
+
+An extensive collection of important resources, articles, papers, and explainers relevant to cryptocurrencies and blockchain. 
+
+Everyone is wellcomed and encouraged to contribute! 
 
 Cryptographic Primitives
 Pre-Bitcoin Era
@@ -20,38 +24,28 @@ Zero-knowledge proofs
 STOs
 
 
-# Blockchain Reading List
-
-This is a list of readings (and watchings) on **blockchain** related topics.
-
-
-## Preamble
-
-The word _"blockchain"_ (or _"block chain"_) started off as a more or less narrowly defined technical term.
-
-It (_"blockchain"_) later became a buzzword that represented anything related to Bitcoin, alt-coins (ex: Litecoin, Ethereum, etc), cryptocurrencies, etc.
-
-And now that the word _"blockchain"_ is on the verge of becoming a _household name_,
-it seems like it is starting to include what some others used to call _"P2P"_, and are now calling _"distributed computing"_.
-
-
-
-This seems to somewhat mirror how previously the usage of the word _"P2P"_ seemed to broaden and also include what others are calling  _"distributed computing"_.
-
-
-
-Regardless, this document focuses on a more traditional definition of _"blockchain"_.
-
-But also includes some topics that the author of this document feels that, while not strictly about blockchains,
-will help provide readers with a deep(er) technical background that can be useful when working with or creating blockchain based technologies.
-
-
 ## Audience
 
-This document is targeted at technical people, who are looking to gain a deep understand of the concepts behind blockchain based technologies.
+This document is targeted at technical people, who are looking to gain a deep understand of the concepts behind cryptocurrencies, blockchain and decentralized technologies.
 
 
 ## Topics
+* [Books](#books)
+* [Newsletters](#newsletters)
+* [History of Crypto](#history-of-crypto)
+* [Bitcoin](#bitcoin)
+* [Ethereum](#ethereum)
+* [Smart Contracts](#smart-contracts)
+* [Solidity](#solidity)
+* [Smart Contract Platforms](#smart-contract-platforms)
+* [Layer 2 solutions](#layer-2-solutions)
+* [Alternative cryptocurrencies](#alternative-cryptocurrencies)
+* [DeFi](#DeFi)
+* [Cryptography](#cryptography)
+* [Privacy](#privacy)
+
+
+
 * [Abstract Algebra](#abstract-algebra)
 * [Behavioral Science](#behavioral-science)
 * [Bitcoin](#bitcoin)
@@ -62,6 +56,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Content Addressing](#content-addressing)
 * [Cryptocurrency](#cryptocurrency)
 * [Cryptography](#cryptography)
+* [Cypherpunks](#abstract-algebra)
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
 * [eCash](#ecash)

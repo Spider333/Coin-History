@@ -2,26 +2,7 @@
 
 An extensive collection of important resources, articles, papers, and explainers relevant to cryptocurrencies and blockchain. 
 
-Everyone is wellcomed and encouraged to contribute! 
-
-Cryptographic Primitives
-Pre-Bitcoin Era
-Digital Privacy Groups
-Cypherpunks
-Bitcoin Protocol
-Lightning Network
-Bitcoin Ecosystem
-Memes
-Satoshi Nakamoto
-Altcoins
-Anonymous Altcoins
-Ethereum
-ICOs
-Smart Contract Platforms
-Decentralised Finance (DeFi)
-Consensus algorithms
-Zero-knowledge proofs
-STOs
+Everyone is welcommed and encouraged to contribute! 
 
 
 ## Audience

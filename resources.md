@@ -2,8 +2,7 @@
 
 An extensive collection of important resources, articles, papers, and explainers relevant to cryptocurrencies and blockchain. 
 
-Everyone is welcommed and encouraged to contribute! 
-
+Everyone is welcommed and encouraged to contribute!
 
 ## Audience
 

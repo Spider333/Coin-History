@@ -38,7 +38,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Books
 *    [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)  or at [Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
-by A. Antonopoulos - 
+by A. Antonopoulos 
   
 *    [Mastering Ethereum (available for free on Github)](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
 by A. Antonopoulos and Gavin Wood
@@ -73,9 +73,8 @@ by A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt
 ## Newsletters
 
 ### Bitcoin
-[Bitcoin Tech Talk]
+[Bitcoin Tech Talk](https://bitcointechtalk.com/)
 
-[The Pomp]
 
 
 ### Ethereum
@@ -90,6 +89,8 @@ by A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt
 # Crypto in general
 
 [Delphi Digital]
+
+[The Pomp](https://pomp.substack.com/)
 
 
 ## History of Crypto

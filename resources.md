@@ -81,10 +81,10 @@ by A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt
 
 ### DeFi
 
-[Bankless](https://bankless.substack.com/)
-[DeFi Weekly](https://defiweekly.substack.com/)
-[DeFi Value](https://defivalue.substack.com/)
-[The Defiant](https://thedefiant.substack.com/)
+* [Bankless](https://bankless.substack.com/)
+* [DeFi Weekly](https://defiweekly.substack.com/)
+* [DeFi Value](https://defivalue.substack.com/)
+* [The Defiant](https://thedefiant.substack.com/)
 
 # Crypto in general
 

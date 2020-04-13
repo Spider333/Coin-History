@@ -56,7 +56,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 *  J. Song - [Programming Bitcoin (avaialble fore free on Github)](https://github.com/jimmysong/programmingbitcoin)
   or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
   
-* [This Machine Kills Secrets]https://www.amazon.com/gp/product/0142180491/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142180491&linkCode=as2&tag=coinstory-20&linkId=70a0d568d5417ec7fea32543af33ae26),
+* [This Machine Kills Secrets](https://www.amazon.com/gp/product/0142180491/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142180491&linkCode=as2&tag=coinstory-20&linkId=70a0d568d5417ec7fea32543af33ae26),
   by Andy Greenberg
 
 * [Crypto](https://www.amazon.com/gp/product/0140244328/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140244328&linkCode=as2&tag=coinstory-20&linkId=d567c9a1b827eb2e36fb120d1f11e4aa),

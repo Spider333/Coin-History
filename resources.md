@@ -37,23 +37,54 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 ## Books
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
-  by Andreas M. Antonopoulos
+*    A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)  or at [Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
   
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
-  by Andreas M. Antonopoulos, Gavin Wood
+*    A. Antonopoulos - [Mastering Ethereum (available for free on Github)](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
   
-* [Mastering Monero](https://masteringmonero.com/free-download.html),
-  by SerHack & Monero Communityż
+*  A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies (available for free)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) or at [Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
   
+*   P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374)
   
-* [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
+*  SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html) (available for free)
+  
+*  Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) (available for free)
+  
+*  Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) (available for free)
+  
+*  A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network (available for free on Github)](https://github.com/lnbook/lnbook) 
+  
+*  J. Song - [Programming Bitcoin (avaialble fore free on Github)](https://github.com/jimmysong/programmingbitcoin)
+  or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
+  
+* [This Machine Kills Secrets]https://www.amazon.com/gp/product/0142180491/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142180491&linkCode=as2&tag=coinstory-20&linkId=70a0d568d5417ec7fea32543af33ae26),
   by Andy Greenberg
 
-* [Crypto](https://www.goodreads.com/book/show/984428.Crypto),
+* [Crypto](https://www.amazon.com/gp/product/0140244328/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140244328&linkCode=as2&tag=coinstory-20&linkId=d567c9a1b827eb2e36fb120d1f11e4aa),
   by Steven Levy
   
 ## Newsletters
+
+Bitcoin
+[Bitcoin Tech Talk]
+
+[The Pomp]
+[Bankless]
+[Bankless]
+
+Ethereum
+[Bankless]
+[Bankless]
+
+DeFi
+
+[Bankless](https://bankless.substack.com/)
+[DeFi Weekly](https://defiweekly.substack.com/)
+[DeFi Value](https://defivalue.substack.com/)
+[The Defiant](https://thedefiant.substack.com/)
+
+Crypto in general:
+
+[Delphi Digital]
 
 
 ## History of Crypto
@@ -205,7 +236,9 @@ by Hal Finney
 * [Ethereum Beige Paper: Rewrite of the Yellowpaper in non-Yellowpaper syntax](https://github.com/chronaeon/beigepaper/),
   by Micah Dameron
   
- * [Learning ETH resources](https://ethereum.org/learn/)
+* [All the writings of Vitalik Buterin](https://waitwho.is/vitalikbuterin/essays)
+  
+* [Learning ETH resources](https://ethereum.org/learn/)
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
   by Andreas M. Antonopoulos, Gavin Wood
@@ -302,7 +335,12 @@ Hyperledger
 ## ICOs
 ## STOs
 ## DeFi
+
+* [DeFi Pulse - DeFi Sources and Stats](https://defipulse.com/)
+
 ## NFTs
+
+* [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
 ## Cryptography
 
 * [Everything you need to know about cryptography in 1 hour](https://youtu.be/jzY3m5Kv7Y8),

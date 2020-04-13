@@ -64,25 +64,22 @@ This document is targeted at technical people, who are looking to gain a deep un
   
 ## Newsletters
 
-Bitcoin
+### Bitcoin
 [Bitcoin Tech Talk]
 
 [The Pomp]
-[Bankless]
-[Bankless]
 
-Ethereum
-[Bankless]
-[Bankless]
 
-DeFi
+### Ethereum
+
+### DeFi
 
 [Bankless](https://bankless.substack.com/)
 [DeFi Weekly](https://defiweekly.substack.com/)
 [DeFi Value](https://defivalue.substack.com/)
 [The Defiant](https://thedefiant.substack.com/)
 
-Crypto in general:
+# Crypto in general
 
 [Delphi Digital]
 
@@ -337,6 +334,7 @@ Hyperledger
 ## DeFi
 
 * [DeFi Pulse - DeFi Sources and Stats](https://defipulse.com/)
+* [DeFi Prime - DeFi Sources and Stats](https://defiprime.com/)
 
 ## NFTs
 

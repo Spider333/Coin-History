@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Resourcces](README.md)
+* [Resources](README.md)
 

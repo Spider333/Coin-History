@@ -4,7 +4,7 @@ description: >-
   explainers relevant to cryptocurrencies and blockchain.
 ---
 
-# Resourcces
+# Resources
 
 ## www.coinstory.tech \#
 

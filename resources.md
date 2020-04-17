@@ -88,7 +88,7 @@ by A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt
 
 # Crypto in general
 
-[Delphi Digital]
+[Delphi Digital](https://www.delphidigital.io/)
 
 [The Pomp](https://pomp.substack.com/)
 

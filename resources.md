@@ -1,8 +1,6 @@
+# Resources
 
-
-## www.coinstory.tech \#
-
-Everyone is welcommed and encouraged to contribute!
+**www.coinstory.tech** 
 
 ### Audience
 

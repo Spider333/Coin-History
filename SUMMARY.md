@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Resources](README.md)
+* [Cryptocurrency Resources](README.md)
 

@@ -1,4 +1,4 @@
-# Resources
+# Cryptocurrency Resources
 
 **www.coinstory.tech** 
 

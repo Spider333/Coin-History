@@ -1,10 +1,4 @@
----
-description: >-
-  An extensive collection of important resources, articles, papers, and
-  explainers relevant to cryptocurrencies and blockchain.
----
 
-# Resources
 
 ## www.coinstory.tech \#
 
